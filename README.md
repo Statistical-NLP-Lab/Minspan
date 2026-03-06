@@ -1,4 +1,4 @@
-# How to Use
+# Long-Context Mental Health Assessment with Large Language Models via Knowledge Compression
 
 # Install
 1. Clone this repository to your local machine.
@@ -50,4 +50,19 @@ python test.py \
   --dataset_name {DATASET_NAME} \
   --output_dir {results_output_path} \
   --test_file {test_dataset_path}
+```
+
+## Cite
+Thanks for your interest. If this helps, please cite the paper by using the following Bib.
+```
+@ARTICLE{MindSpan,
+  author={Lou, Fanghao and Wang, Qiqi and Li, Huijia and Liu, Qian},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={Long-Context Mental Health Assessment with Large Language Models via Knowledge Compression}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TAFFC.2026.3669164}
+  }
 ```
